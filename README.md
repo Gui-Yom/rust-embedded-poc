@@ -18,4 +18,4 @@ CLion with Rust plugin (+ PlatformIO ?)
 ## Steps
 Compile, Upload, Debug
 
-`cargo build --target <t>`
+`cargo build`
